@@ -1,43 +1,39 @@
 # Books List
-=============================================
+## Computer Science
 
-### Computer Science
+1. Djikstra - Humble Programmer  
+2. Algorithmic Puzzles by Levitin  
+3. Introduction to Algorithms (CLRS)  
+4. Compilers: Principles, Techniques, and Tools  
+5. Cracking the Coding Interview  
+6. Design Patterns  
+7. The Art of Computer Programming, Volume 2 by Donald E. Knuth  
+8. Matters Computational  
+9. Pattern Recognition and Machine Learning  
+10. Performance Symptoms and Bottlenecks Identification  
+11. Types and Programming Languages by Pierce (2002)  
+12. Programming Pearls  
+13. Programming Pearls (Extra Stuff)  
+14. Reducibility in Combinatorial Problems  
+15. The Algorithm Design Manual by Skiena  
+16. Stack Sortable Permutations (2)  
+17. Stack Sortable Permutations  
+18. Think Like a Computer Scientist  
 
-    i. _Djikstra_Humble_Programmer  
-    ii. Algorithmic_Puzzles_Levitin  
-    iii. CLRS-algo-text  
-    iv. compilers  
-    v. Cracking-the-coding-interview  
-    vi. DesignPatterns  
-    vii. Donald.E.Knuth.The.Art.of.Computer.Programming.Volume.2  
-    viii. matters_computational  
-    ix. Pattern Recognition and Machine Learning  
-    x. performance-symptoms-bottlenecks-identification  
-    xi. pierce_types_and_programming_languages_2002  
-    xii. Programming_pearls  
-    xiii. Programming.Pearls-extrastuff  
-    xiv. reducibility_combinatorial_problems  
-    xv. Skiena.-.TheAlgorithmDesignManual  
-    xvi. stack-sortable-permutations-2  
-    xvii. stack-sortable-permutations  
-    xviii. think_like_a_computer_scientist  
-    xix. introduction-to-algorithms-4th-edition
+## Mathematics
 
+1. Concrete Mathematics: A Foundation of Computer Science (2nd Edition)  
+2. Enumerative Combinatorics  
+3. Paths, Trees, Flowers  
+4. Putnam 1985-2000 Problems  
+5. Real Analysis by Trench  
 
-### Math
+## Competitive Programming
 
-    i. Concrete Mathematics: A Foundation of Computer Science 2nd Edition  
-    ii. Enumerative Combinatorics  
-    iii. paths_trees_flowers  
-    iv. Putnam 1985-2000 problems  
-    v. trench_real-analysis
+1. Competitive Programming Handbook  
 
-### Competative Program
+## Philosophy of Science
 
-    i. Cp Hand Book
-
-# Philosophy of Science 
-    
-    i. limitsofscience_scienceoflimits_1998
-    ii. onthelimitsofscienticknowledge_1996
-    iii. thescientificmethod-anditslimitations_1899
+1. Limits of Science: Science of Limits (1998)  
+2. On the Limits of Scientific Knowledge (1996)  
+3. The Scientific Method and Its Limitations (1899)  
