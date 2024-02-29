@@ -1,4 +1,4 @@
-# Books List
+# Books and Resource List
 ## Computer Science
 
 1. Djikstra - Humble Programmer  
